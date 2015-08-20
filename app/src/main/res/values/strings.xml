@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SlidingTabs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="user">User</string>
+    <string name="title_activity_tab1">Tab1</string>
+    <string name="tab1">You Are In Tab 1</string>
+    <string name="title_activity_tab2">Tab2</string>
+    <string name="tab2">You Are In Tab 2</string>
+    <string name="title_activity_tab3">Tab3</string>
+    <string name="tab3">You are in Tab 3</string>
+</resources>
